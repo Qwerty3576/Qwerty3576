@@ -23,8 +23,9 @@
   <h3>📧 Contact</h3>
   <p>
     Discord : ! Qwerty#9999<br>
+    <img alt="GIF" src="https://discord.c99.nl/widget/theme-1/789728670020272149.png"/><br>
     Telegram : Soon<br>
-    Session : Soon<br>
+    Session : 058cd2c57c759e3128ff27316c41459b053cb99697ca8aed3a19d777af6ae61c23<br>
     Email : Soon
   </p>
 </div>
