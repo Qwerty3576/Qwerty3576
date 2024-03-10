@@ -5,8 +5,8 @@
   <p>
     ⭐ MBTI : INFP<br>
     🕘 Timezone : UTC +9 Seoul<br>
-    💬 Language : English, Korean<br>
-    📁 Skill : Full Stack, SI/SM, Desktop and Mobile Software Developer<br>
+    💬 Language : English, Korean, Japanese<br>
+    📁 Skill : System Hack, Full Stack, Software Development - 10 years<br>
     🎮 Hobby : Design, Game, Editing, Composition
   </p>
 </div>
