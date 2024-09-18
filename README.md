@@ -22,7 +22,7 @@
 <div>
   <h3>📧 Contact</h3>
   <p>
-    Discord : ! Qwerty#9999<br>
+    Discord : qwerty.dc<br>
     <img alt="GIF" src="https://discord.c99.nl/widget/theme-1/789728670020272149.png"/><br>
     Signal : Soon<br>
     Telegram : Soon<br>
